@@ -39,5 +39,5 @@ max_sales = max(sales)
 min_sales = min(sales)
 
 # print the max and min sales
-print("The maximum sales by any one salesperson is:", max_sales)
-print("The minimum sales by any one salesperson is:", min_sales)
+print("The maximum sales by any one salesperson is: ", max_sales)
+print("The minimum sales by any one salesperson is: ", min_sales)
