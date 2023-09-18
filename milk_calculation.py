@@ -7,7 +7,7 @@ days = 7
 total_hours = 0
 # how much milk stephen drinks per hour
 milk_rate = 0.5
-# how much dad charges for milk
+# how much dad charges for milk 
 dads_rate = 1.35
 
 # for loop to get hours for all the day s, and store the information into a list
